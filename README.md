@@ -1,3 +1,3 @@
-# test-repository
+# test-repository demo 1
 
-This is a second example
+This repository if for testing purposes.
